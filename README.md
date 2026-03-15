@@ -1,10 +1,10 @@
-# P-Stream Extension
+# V-Stream Extension
 
 Enhance your experience with just one click!
 
 ## About
 
-The extension is an optional "plugin" for P-Stream (and all movie-web forks) that adds a more sources that usually yield a better-quality stream!
+The extension is an optional "plugin" for V-Stream (and all movie-web and/or P-Stream forks) that adds a more sources that usually yield a better-quality stream!
 
 In simple terms: it acts as a local proxy. Imagine it opens an invisible tab to extract (scrape) the stream from the desired website. The only difference is that the extension can send specific headers, cookies, and is locally based. Some sources have restrictions that block scrapers; the extension helps us bypass that, such as IP restrictions, where the stream needs to be loaded on the same IP that it was originally scraped from.
 
@@ -20,7 +20,7 @@ During the onboarding process (/onboarding) the user can select between 3 option
 - Because we scrape from many sites, it would be tedious to allow every site.
 
 ## Safety
-- It's **not required** to use P-Stream, it's entirely optional. 
+- It's **not required** to use V-Stream, it's entirely optional. 
 - It doesn't track the user in any way or send data to any site besides the site you intend to use it with.
 - **All of the code is open-source and anyone can inspect it.** 
 - The extension **must** be enabled on a per site basis, otherwise the connecting site cannot talk to the extension (using runtime.sendMessage). 

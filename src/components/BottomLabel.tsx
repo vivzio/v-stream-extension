@@ -8,9 +8,9 @@ export function BottomLabel() {
     <h3 className="bottom-label">
       {version}
       <div className="dot" />
-      P-Stream
+      V-Stream
       <div className="dot" />
-      <a href="https://github.com/p-stream/extension" target="_blank" rel="noopener noreferrer" className="github-link">
+      <a href="https://github.com/vivzio/v-stream-extension" target="_blank" rel="noopener noreferrer" className="github-link">
         Github ↗
       </a>
     </h3>

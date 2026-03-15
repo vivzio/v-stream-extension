@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "P-Stream extension",
+  "name": "V-Stream extension",
   "optional_host_permissions": ["\u003Call_urls>"],
   "permissions": ["storage", "declarativeNetRequest", "activeTab", "cookies"],
   "update_url": "https://clients2.google.com/service/update2/crx",

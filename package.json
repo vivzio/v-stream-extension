@@ -1,9 +1,9 @@
 {
-  "name": "@p-stream/extension",
-  "displayName": "P-Stream extension",
+  "name": "@v-stream/extension",
+  "displayName": "V-Stream extension",
   "version": "1.3.7",
   "description": "Enhance your streaming experience with just one click",
-  "author": "P-Stream",
+  "author": "vivzio",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
